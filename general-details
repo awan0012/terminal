@@ -1,0 +1,52 @@
+Terminal Multiplexer : --> Tmux
+---------------------------------------------------------------------
+Process Monitoring :
+ps
+top
+htop
+atop
+lsof
+---------------------------------------------------------------------
+System performance
+nmon
+iostat
+sar
+vmstat
+--------------------------------------------------------------------------
+network tools
+traceroute
+mtr
+ping
+nmap
+nstat
+uwf/firewalld
+tcpdump
+iptables
+nfttables
+dig
+scp
+-----------------------------------------------------------------------------
+Text manipulation tool
+awk
+grep
+sed
+sort
+cut
+uniq
+cat
+echo
+fmt
+tr
+nl
+wc
+-----------------------------------------------------------------------------------
+other
+starce
+dtrace
+systemap
+uname
+df
+history
+du
+
+
